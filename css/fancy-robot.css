@@ -1,6 +1,6 @@
 .robot-container {
-  width: 44%;
-  height: 75%;
+  width: 750px;
+  height: 750px;;
   border: 6px solid red;
   margin: auto;
   display: flex;
@@ -9,18 +9,36 @@
 }
 
 .robot-face-shape {
-  width: 75%;
-  height: 75%;
+  position: relative;
+  width: 500px;
+  height: 500px;
   margin: auto;
   border: 10px solid rgb(13, 183, 239);
   border-radius: 10%;
-  background: linear-gradient(105deg, rgb(3, 25, 45), 85%,  rgb(8, 114, 130));
+  background: linear-gradient(105deg, rgb(5, 45, 59), 60%,  rgb(8, 114, 130));
 }
 
 .robot-eye-left {
+  position: absolute;
+  width: 100px;
+  height: 90px;
+  margin: 20px 0;
+  background: linear-gradient(105deg, rgb(192, 63, 63), 60%,  rgb(145, 117, 40));
+  border-radius: 50% / 10%;
+  color: white;
+  text-align: center;
+  text-indent: .1em;
+  top: 100px;
+  left: 100px;
 }
 
 .robot-eye-right {
+  width: 130px;
+  height: 1rem;
+  background: cornflowerblue;
+  position: absolute;
+  top: 175px;
+  right: 80px;
 }
 
 .robot-ear-left {
