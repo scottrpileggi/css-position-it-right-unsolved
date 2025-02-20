@@ -48,6 +48,13 @@
 }
 
 .robot-nose {
+  width: 0;
+  height: 0;
+  border-bottom: 100px solid goldenrod;
+  border-left: 100px solid transparent;
+  position: absolute;
+  bottom: 140px;
+  left: 140px;
 }
 
 .robot-teeth {
