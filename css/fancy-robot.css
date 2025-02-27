@@ -45,6 +45,7 @@
 }
 
 .robot-ear-left {
+  background-color: blue;
   width: 0px;
   height: 0px;
   border-right: 60px solid transparent;
@@ -60,6 +61,7 @@
 }
 
 .robot-ear-right {
+  background-color: red;
   width: 0px;
   height: 0px;
   border-right: 60px solid transparent;
@@ -72,7 +74,7 @@
   border-bottom-right-radius: 60px;
   transform: rotate(180deg);
   position: relative;
-    left: 39rem;
+    left: 40rem;
     bottom: 20rem;
 }
 
@@ -94,7 +96,11 @@
   bottom: 40px;
   left: 30%;
   flex-wrap: wrap;
-  width: 186px;
+  justify-content: center;
+  border: 10px solid pink;
+  background-color: hotpink;
+  width: 200px;
+  border-radius: 15%;
 }
 
 .robot-tooth {
@@ -131,4 +137,15 @@
   width: 25px;
   height: 60px;
   background-color: yellow;
+}
+
+.required-oval {
+  border-radius: 50%;
+  position: relative;
+  left: 30px;
+  top: 20px;
+  transform: rotate(149deg);
+  width: 71px;
+  height: 28px;
+  background-color: cornflowerblue;
 }
