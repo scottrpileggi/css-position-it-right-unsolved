@@ -38,13 +38,13 @@ This assignment should prove that a student is able to:
 - [x] Fork the project to your github account
 - [x] Clone the project to your computer
 - [x] Open the project in VSCode with `code <cloned_repo_folder_name>`
-- [ ] This Assignment is NOT tested. You can use all the desired creativity!
-- [ ] All the tasks of the "Specific requirements" section MUST be solved
-- [ ] The project's file/folder structure should NOT be edited!
+- [x] This Assignment is NOT tested. You can use all the desired creativity!
+- [x] All the tasks of the "Specific requirements" section MUST be solved
+- [x] The project's file/folder structure should NOT be edited!
 - [ ] The index.html file should NOT be edited! The only acceptable change are additional classes added to elements.
-- [ ] VSCode IDE MUST have 0 problems listed
-- [ ] The code of the index.html and styles.css should pass the W3C validation (Feel free to use either the "w3c web validator" VSCode extension or the "Online w3c Markup Validation Service")
-- [ ] The code MUST be formatted with Prettier.
+- [x] VSCode IDE MUST have 0 problems listed
+- [x] The code of the index.html and styles.css should pass the W3C validation (Feel free to use either the "w3c web validator" VSCode extension or the "Online w3c Markup Validation Service")
+- [x] The code MUST be formatted with Prettier.
 - [ ] Push the changes to the Github repo, when finished.
 - [ ] Submit a .txt file with the Github repo url.
 
@@ -82,17 +82,17 @@ This assignment should prove that a student is able to:
     - [x] At least one square shape
     - [x] At least one circle shape
     - [x] At least one rectangle shape
-    - [ ] At least one oval shape
+    - [x] At least one oval shape
     - [x] Any other shapes of your choice. You can add additional containers to create a combined shape and additional classes inside the current face part.
-  - [ ] At least one shape should have a solid background color chosen from the available [HTML colors](https://www.w3schools.com/html/html_colors.asp).
-  - [ ] At least one shape should have a gradient background color chosen from the available [UI gradients](https://uigradients.com/).
-  - [ ] At least one shape should have a background image that fits the shape and doesn't overflow it, using images from [Lorem Picsum](https://picsum.photos/) or any other images CDN service.
-  - [ ] The width and / or height height of at least one shape should be based on the percentage units relative to the dimensions of the face shape.
-  - [ ] The width and / or height of at least one shape should be based on relative units relative to the font size.
-  - [ ] At least one shape should have an opacity of 50% or be semi-transparent.
-- [ ] Position the shapes inside or outside the face shape according to the following guidelines:
-  - [ ] In-face elements should be positioned in relation to their static position.
-  - [ ] External face shapes should be positioned in relation to the robot container or the face shape.
+  - [x] At least one shape should have a solid background color chosen from the available [HTML colors](https://www.w3schools.com/html/html_colors.asp).
+  - [x] At least one shape should have a gradient background color chosen from the available [UI gradients](https://uigradients.com/).
+  - [x] At least one shape should have a background image that fits the shape and doesn't overflow it, using images from [Lorem Picsum](https://picsum.photos/) or any other images CDN service.
+  - [x] The width and / or height height of at least one shape should be based on the percentage units relative to the dimensions of the face shape.
+  - [x] The width and / or height of at least one shape should be based on relative units relative to the font size.
+  - [x] At least one shape should have an opacity of 50% or be semi-transparent.
+- [x] Position the shapes inside or outside the face shape according to the following guidelines:
+  - [x] In-face elements should be positioned in relation to their static position.
+  - [x] External face shapes should be positioned in relation to the robot container or the face shape.
 
 `For the Legal Page exercise`
 

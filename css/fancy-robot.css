@@ -138,14 +138,3 @@
   height: 60px;
   background-color: yellow;
 }
-
-.required-oval {
-  border-radius: 50%;
-  position: relative;
-  left: 30px;
-  top: 20px;
-  transform: rotate(149deg);
-  width: 71px;
-  height: 28px;
-  background-color: cornflowerblue;
-}
